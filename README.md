@@ -13,7 +13,8 @@
 
 6.Use run_query.py to test the command-line version of the search.
 
-7.Navigate to the GUI folder and install the dependencies using npm 
+7.Navigate to the GUI folder and install the dependencies using `npm install` 
 
 8.Use command `npm start` to start the application , make sure you are connected to the internet 
 
+###For more Info on Electron JS click [here](https://electronjs.org/)
