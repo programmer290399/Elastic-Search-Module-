@@ -15,8 +15,10 @@
 6.Use run_query.py to test the command-line version of the search.
 
 7.Navigate to the GUI folder and : 
-  i)Install the dependencies using `npm install`
-  ii)Navigate into the linkers folder and change the python path and python script path in run_query.js file according your machine.
+  
+  *i)Install the dependencies using `npm install`
+  
+  *ii)Navigate into the linkers folder and **change the python path and python script path in run_query.js file according your machine.**
 
 8.Use command `npm start` to start the application , make sure you are connected to the internet 
 
